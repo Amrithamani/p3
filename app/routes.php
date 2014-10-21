@@ -11,7 +11,9 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
+// Homepage
+Route::get('/books', function() {
+
+    return 'WELCOME';
+
 });
