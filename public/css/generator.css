@@ -1,0 +1,58 @@
+	
+	a:link {
+			text-decoration:underline;
+			color:#00FFFF;
+		}
+		
+	.container {
+			margin:auto;
+			text-align:justify;
+            font-size:25px;
+            color:#708090;
+			width:70%;
+			
+		}
+	
+	.paragraphs-output,.user {
+			margin:auto;
+			text-align:justify;
+			color:#708090;
+			width:70%;
+		}
+		
+	
+	.name {
+			font-weight:bold;
+		}
+		
+	.profile {
+			font-style:italic;
+		}
+		
+	   h1 {
+            margin:auto;
+			text-align:center;
+			font-size:40px;
+			color:#708090;
+		}
+		
+		h2 {
+            text-align:justify;
+            font-size:28px;
+            color:#708090;
+		}
+		
+		
+		blockquote{
+			   text-align:justify;
+			   font-size:23px;
+			   color:#708090;
+			}
+			
+		p{
+			text-align:justify;
+            font-size:18px;
+            color:#708090;
+		}
+			
+			       
