@@ -8,10 +8,10 @@ A simple utility for generating text and some users by using Lorem Ipsum Generat
 
 ## Demo
 I will not be able to attend my session. Find the link to video recording below for the virtual demo:
-
+<http://screencast.com/t/CSBu8Uhlm>
 
 ## Details for teaching team
-You do not require a passwords, please go to the live URL to access the password generator application.
+none.
 
 ## Outside code
 
