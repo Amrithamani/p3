@@ -1,7 +1,7 @@
 # Developer's Best Friend
 
 ## Live URL
-<http://p3.amrithamani.me/>
+<http://p3.amrithamani.com/>
 
 ## Description
 A simple utility for generating text and some users by using Lorem Ipsum Generator and a Random User Generator packages.
